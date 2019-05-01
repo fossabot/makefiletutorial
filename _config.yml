@@ -1,8 +1,11 @@
+theme: jekyll-theme-midnight
 name: White Paper
-markdown: kramdown
-kramdown:
-    input: GFM
-url: http://makefiletutorial.com
+
+#markdown: kramdown
+#kramdown:
+#    input: GFM
+
+url: https://2n2b1.github.io/makefiletutorial/
 description: Makefile Tutorial by Example
 syntax-highlighting:
     enabled: true
@@ -12,6 +15,3 @@ highlighter: pygments
 # Owner/author information
 owner:
   name: Chase Lambert
-
-
-theme: jekyll-theme-midnight
