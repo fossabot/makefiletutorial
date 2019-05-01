@@ -13,3 +13,5 @@ highlighter: pygments
 owner:
   name: Chase Lambert
 
+
+theme: jekyll-theme-midnight
